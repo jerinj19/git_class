@@ -1,2 +1,8 @@
 git new file 
+<<<<<<< HEAD
 this is the second commmit 
+=======
+this is the second commmit
+
+this is the third commit
+>>>>>>> 3ca3f8fdd9ebe5b7a7b70ea2b5cf8b5d7de99a83
